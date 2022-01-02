@@ -1,0 +1,157 @@
+header:
+    title:
+    text:
+    button:
+    buttonlink:
+
+values:
+    title: "Values"
+    text: "My approach to child care."
+    section: values
+    list:
+      - title: "Play based learning"
+        desc: "Play based learning with Montessori influence. Every moment in a child's life is a learning opportunity."
+        icon: fas fa-robot #find more at https://fontawesome.com/icons
+      - title: "Focus on happiness"
+        desc: "I focus on safety, happiness, independence and emotional regulation among with learning of discipline."
+        icon: fas fa-smile-beam
+      - title: "Love for kids"
+        desc: "I treat the children like my own because I believe every child needs to be loved, accepted and welcomed with their unique personality."
+        icon: fas fa-heart
+      - title: "Love the outdoors."
+        desc: "Daily walks to explore nature and a big back yard with fun toys."
+        icon: fas fa-tree
+
+services:
+    title: "Services"
+    text: "Full and part time child care services in north seattle"
+    section: services
+    list:
+      - title: "Flexible ages and times"
+        desc: "Ages 1-3. From 8 to 5 with flexible drop off and pickup."
+        icon: far fa-clock #find more at https://fontawesome.com/icons
+      - title: "Simple pricing"
+        desc: "$15 per hour including snacks and lunch prepared with organic ingredients."
+        icon: fas fa-money-bill-wave
+      - title: "Dedicated nap room."
+        desc: "I'm preparing a dedicated nap room with color therapy to help little ones relax."
+        icon: fas fa-bed
+      - title: "Music"
+        desc: "I play the piano so I include music time in the program and I encourage the little ones to pick an instrument and sing along with me."
+        icon: fas fa-music
+      - title: "Non-toxic cleaning products"
+        desc: "All toys are clean and sanitized with non-toxic products."
+        icon: fas fa-leaf
+      - title: "Learning and sharing"
+        desc: "I help little ones learn to understand and control emotions, respect each other, take turns, use the potty."
+        icon: fas fa-smile-beam
+
+gallery:
+    title: "Gallery"
+    text: "Sensory, building, art, music, pretend play and gym toys are organized by category. More photos on [my album](https://photos.app.goo.gl/HRcuLttVbAeSHkvt6)."
+    section: gallery
+    pics:
+      - title: 'active toys'
+        alt: 'physical activities'
+        thumbnail: assets/img/gallery/active-toys-200.jpg
+        image: assets/img/gallery/active-toys.jpg
+        caption: 'indoor activities like trampoline.'
+      - title: 'arts'
+        alt: 'painting and music'
+        thumbnail: assets/img/gallery/arts-200.jpg
+        image: assets/img/gallery/arts.jpg
+        caption: 'painting and music'
+      - title: 'smaller toys'
+        alt: 'small toys'
+        thumbnail: assets/img/gallery/small-toys-200.jpg
+        image: assets/img/gallery/small-toys.jpg
+        caption: 'Smaller toys for smaller kids.'
+
+timeline:
+    title: "About"
+    text: "my journey"
+    section: timeline
+    events:
+      - title: "China"
+        year: "1983"
+        desc: "I was born and raised in China"
+        image: assets/img/timeline/gr-flag.png
+        alt:
+      - title: "Studying and mentoring."
+        year: "2003"
+        desc: "Got my Bachelor in Education while I was tutoring Chinese and math as well."
+        image: assets/img/timeline/uni.png
+        align: "right"
+      - title: "Moved to the US"
+        year: "2009-2013"
+        desc: "I moved to the US and got my certificate in early childhood education from University of DeAnza."
+        image: assets/img/timeline/us-flag.png
+        alt:
+      - title: "My boy and girl were born"
+        year: "2010 & 2012"
+        desc: "The years passed and I was blessed with my children."
+        image: assets/img/timeline/girls-300.jpg
+        alt:
+        # you can enforce the aligment
+        align: right
+    end: "Be Part <br> of Our <br> Story!"
+
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+
+clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+team:
+    title: "PEOPLE"
+    text: ""
+    subtext: ""
+    section: team
+    people:
+      - name: "Ioanna Makri"
+        role: "Owner"
+        image: assets/img/ioanna-500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+contact:
+    title: "Contact Us"
+    text: "Ask me anything"
+    section: contact
+
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}

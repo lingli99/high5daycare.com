@@ -11,19 +11,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alfa Home Daycare
-email: im.makri@gmail.com
+title: High 5 Daycare
+email: li.is.ling@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Alfa daycare is a small home daycare in north seattle
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alfadaycare.com" # the base hostname & protocol for your site, e.g. http://example.com
-author: "cesar romero"
-twitter_username: romerocesar
-github_username:  romerocesar
+url: "https://high5daycare.com" # the base hostname & protocol for your site, e.g. http://example.com
+author: "ling li"
+twitter_username: lingli
+github_username:  lingli99
 
 # analytics
-analytics:
-  google: "G-2CBBTSTB3F"
+#analytics:
+#  google: "G-2CBBTSTB3F"
 
 # plugins
 plugins:

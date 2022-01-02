@@ -73,22 +73,22 @@ timeline:
     section: timeline
     events:
       - title: "China"
-        year: "1983"
+        year: "1980s"
         desc: "I was born and raised in China"
         image: assets/img/timeline/gr-flag.png
         alt:
       - title: "Studying and mentoring."
-        year: "2003"
-        desc: "Got my Bachelor in Education while I was tutoring Chinese and math as well."
+        year: "2000s"
+        desc: "Got my Bachelor in Education while I was tutoring Chinese, English and Math."
         image: assets/img/timeline/uni.png
         align: "right"
       - title: "Moved to the US"
-        year: "2009-2013"
-        desc: "I moved to the US and got my certificate in early childhood education from University of DeAnza."
+        year: "2010s"
+        desc: "I moved to the US and got my certificate in early childhood education."
         image: assets/img/timeline/us-flag.png
         alt:
       - title: "My boy and girl were born"
-        year: "2010 & 2012"
+        year: "2010-now"
         desc: "The years passed and I was blessed with my children."
         image: assets/img/timeline/girls-300.jpg
         alt:
@@ -120,12 +120,12 @@ clients:
         logo: assets/img/clients/creative-market.jpg
 
 team:
-    title: "PEOPLE"
+    title: "People"
     text: ""
     subtext: ""
     section: team
     people:
-      - name: "Ioanna Makri"
+      - name: "Ling"
         role: "Owner"
         image: assets/img/ioanna-500.jpg
         social:
